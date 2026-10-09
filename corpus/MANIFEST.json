@@ -1,0 +1,140 @@
+{
+  "title": "Attractor-Guided Evolution — Agent Corpus",
+  "version": "0.1",
+  "language": "English",
+  "primary_entry": "README.md",
+  "instructions": "AGENTS.md",
+  "bootstrap": "agent/BOOTSTRAP.md",
+  "files": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 2818,
+      "sha256": "a67b8994daaecdb5421fb42e98ef0e9614aa9104b8cd9c744e95b3e8f33a35ab"
+    },
+    {
+      "path": "METHOD-ONE-PAGE.md",
+      "bytes": 2196,
+      "sha256": "e485bcb19830f3c4cdc3a8fd3ddb86f2417866f04257c55c21e32a5ccba44e17"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3360,
+      "sha256": "686ff7d9bcef1fbdf69d194f3fd4e9cd811825f62202e429b98c06fcb00cc167"
+    },
+    {
+      "path": "agent/ACCEPTANCE.md",
+      "bytes": 2895,
+      "sha256": "2b9063f36f1e313d0615f0b6fdf56235fa360748e2e9a4b7a401468ee7e79cb6"
+    },
+    {
+      "path": "agent/BOOTSTRAP.md",
+      "bytes": 3095,
+      "sha256": "45f0f00e7673c910b27addb72d6c976e943d90718889cc058bb6290d811e5a0e"
+    },
+    {
+      "path": "catalog/ARTIFACT-MAP.md",
+      "bytes": 1943,
+      "sha256": "ff1a126b82d6d9006524f338d3f4c80ec76c0c9e0fc8c2fe6ffb90f32197d98d"
+    },
+    {
+      "path": "catalog/SKILL-DESIGN.md",
+      "bytes": 3217,
+      "sha256": "a22fe5c41cc8f4fb98e6e9c1560a9ecf3d9589bbfc3c98550475a875b23bef0c"
+    },
+    {
+      "path": "catalog/WORKFLOWS.md",
+      "bytes": 3303,
+      "sha256": "14afd019bd84e63c2ce9b09c608bda7651070bc0773db2829a53fd5cda1721fb"
+    },
+    {
+      "path": "contracts/ATTRACTOR-CHARTER.md",
+      "bytes": 1822,
+      "sha256": "f012b220258e5da962bc1f52e64ceff64e1bd17184411cab391259512ed0c21d"
+    },
+    {
+      "path": "contracts/EVOLUTION-DECISION.md",
+      "bytes": 1322,
+      "sha256": "655858553f41b129af3545f97c244c4584f26f8cd92f2433c69843f15df30c14"
+    },
+    {
+      "path": "contracts/IMMERSION-TRANSFER.md",
+      "bytes": 1172,
+      "sha256": "308547c8180f2d95cbd1c38378dabaf1397bdc36ea96f2eabf3ac8b20ebc98f6"
+    },
+    {
+      "path": "contracts/SPIKE-PROTOCOL.md",
+      "bytes": 1897,
+      "sha256": "90f705905570399941c21c40a2f903595c9c150b6109c246c872c883f2de5e2b"
+    },
+    {
+      "path": "contracts/VERDICT.md",
+      "bytes": 1567,
+      "sha256": "e408483100c113d8c4e6261097198997c28216a2d828d1e75caf8c7fe8ad0e77"
+    },
+    {
+      "path": "examples/ANTI-PATTERNS.md",
+      "bytes": 2005,
+      "sha256": "ec33807e3f8d23e910e7852521632557a50930b0dd01019f3b7d808a4b3e5a12"
+    },
+    {
+      "path": "examples/NONSOFTWARE-CASE.md",
+      "bytes": 1767,
+      "sha256": "8e48a2df60ef62cdbf0fed2872f9c76e154357d27f984d9def67acf3dd29fe61"
+    },
+    {
+      "path": "examples/PALADIN-CASE.md",
+      "bytes": 2359,
+      "sha256": "11face318fd364a2be77f6b5a31829dc6d9bf63227894d999b3ddd62fbc8616e"
+    },
+    {
+      "path": "method/01-definition.md",
+      "bytes": 2588,
+      "sha256": "a757d8f0ee2721bcb6af6f2da6ee6f9c320f6f679b0a3186c6333675993c3eb7"
+    },
+    {
+      "path": "method/02-attractor.md",
+      "bytes": 2718,
+      "sha256": "cbb9874b78cb7d520da8dffaaca3071fdab6d22b7fede2901b7b217127eec758"
+    },
+    {
+      "path": "method/03-operating-model.md",
+      "bytes": 2542,
+      "sha256": "a12bf97b81c8b770bb450c60c46f816cfa3dd82a6f6a23465e64702fcbb96501"
+    },
+    {
+      "path": "method/04-hypothesis-spike.md",
+      "bytes": 2563,
+      "sha256": "6fac5eb9b720b35dde615579608c1aba263f6c4f2154ae6825f256791129125f"
+    },
+    {
+      "path": "method/05-evidence.md",
+      "bytes": 2512,
+      "sha256": "13a0a7151198899d0f9b81ecaccbb16f1584cca009b44677e51073a3f91c8cb9"
+    },
+    {
+      "path": "method/06-evolution-decisions.md",
+      "bytes": 2099,
+      "sha256": "2fcc88d7af6cc69600cc096daf484b7eb2cb93c28f4d818f9d139ffa42d67582"
+    },
+    {
+      "path": "method/07-immersion-convergence.md",
+      "bytes": 2208,
+      "sha256": "3e596e62077a9c644ed95fe1cf6e06a0858fd81a23e6fbc3f16245ba17c0142f"
+    },
+    {
+      "path": "method/08-measure-progress.md",
+      "bytes": 1732,
+      "sha256": "0f9b8fb448da5f8f316180d78dfd8d2f52ca833f047b335d36a35850951799d1"
+    },
+    {
+      "path": "method/09-boundaries.md",
+      "bytes": 2283,
+      "sha256": "c41a50eff42bd9e651613afa228783ef14b60c5ebe9c5b932b8c61ac433f21c7"
+    },
+    {
+      "path": "method/10-agent-roles.md",
+      "bytes": 1899,
+      "sha256": "043b62fc8fb44852339469888a71d776fec30dec2b9371a3ba72135fc4b9d1e9"
+    }
+  ]
+}

@@ -1,0 +1,482 @@
+{
+ "Y000": {
+  "task": "V10",
+  "arm": "B",
+  "rep": "r2"
+ },
+ "Y001": {
+  "task": "V1",
+  "arm": "B",
+  "rep": "r1"
+ },
+ "Y002": {
+  "task": "V8",
+  "arm": "A",
+  "rep": "r2"
+ },
+ "Y003": {
+  "task": "V3",
+  "arm": "A",
+  "rep": "r2"
+ },
+ "Y004": {
+  "task": "V6",
+  "arm": "Pbad",
+  "rep": "0"
+ },
+ "Y005": {
+  "task": "V10",
+  "arm": "D",
+  "rep": "r2"
+ },
+ "Y006": {
+  "task": "V4",
+  "arm": "B",
+  "rep": "r1"
+ },
+ "Y007": {
+  "task": "V2",
+  "arm": "B",
+  "rep": "r2"
+ },
+ "Y008": {
+  "task": "V3",
+  "arm": "B",
+  "rep": "r2"
+ },
+ "Y009": {
+  "task": "V1",
+  "arm": "B",
+  "rep": "r2"
+ },
+ "Y010": {
+  "task": "V3",
+  "arm": "Pbad",
+  "rep": "0"
+ },
+ "Y011": {
+  "task": "V1",
+  "arm": "C",
+  "rep": "r1"
+ },
+ "Y012": {
+  "task": "V2",
+  "arm": "Pgood",
+  "rep": "0"
+ },
+ "Y013": {
+  "task": "V2",
+  "arm": "C",
+  "rep": "r2"
+ },
+ "Y014": {
+  "task": "V3",
+  "arm": "D",
+  "rep": "r1"
+ },
+ "Y015": {
+  "task": "V8",
+  "arm": "D",
+  "rep": "r1"
+ },
+ "Y016": {
+  "task": "V10",
+  "arm": "D",
+  "rep": "r1"
+ },
+ "Y017": {
+  "task": "V8",
+  "arm": "C",
+  "rep": "r1"
+ },
+ "Y018": {
+  "task": "V6",
+  "arm": "B",
+  "rep": "r1"
+ },
+ "Y019": {
+  "task": "V1",
+  "arm": "Pbad",
+  "rep": "0"
+ },
+ "Y020": {
+  "task": "V9",
+  "arm": "B",
+  "rep": "r1"
+ },
+ "Y021": {
+  "task": "V5",
+  "arm": "Pgood",
+  "rep": "0"
+ },
+ "Y022": {
+  "task": "V8",
+  "arm": "B",
+  "rep": "r1"
+ },
+ "Y023": {
+  "task": "V1",
+  "arm": "D",
+  "rep": "r1"
+ },
+ "Y024": {
+  "task": "V9",
+  "arm": "D",
+  "rep": "r2"
+ },
+ "Y025": {
+  "task": "V7",
+  "arm": "D",
+  "rep": "r1"
+ },
+ "Y026": {
+  "task": "V7",
+  "arm": "B",
+  "rep": "r1"
+ },
+ "Y027": {
+  "task": "V5",
+  "arm": "B",
+  "rep": "r2"
+ },
+ "Y028": {
+  "task": "V4",
+  "arm": "B",
+  "rep": "r2"
+ },
+ "Y029": {
+  "task": "V5",
+  "arm": "C",
+  "rep": "r2"
+ },
+ "Y030": {
+  "task": "V1",
+  "arm": "A",
+  "rep": "r1"
+ },
+ "Y031": {
+  "task": "V6",
+  "arm": "A",
+  "rep": "r2"
+ },
+ "Y032": {
+  "task": "V3",
+  "arm": "A",
+  "rep": "r1"
+ },
+ "Y033": {
+  "task": "V5",
+  "arm": "A",
+  "rep": "r1"
+ },
+ "Y034": {
+  "task": "V10",
+  "arm": "A",
+  "rep": "r2"
+ },
+ "Y035": {
+  "task": "V8",
+  "arm": "Pbad",
+  "rep": "0"
+ },
+ "Y036": {
+  "task": "V3",
+  "arm": "Pgood",
+  "rep": "0"
+ },
+ "Y037": {
+  "task": "V7",
+  "arm": "C",
+  "rep": "r1"
+ },
+ "Y038": {
+  "task": "V1",
+  "arm": "C",
+  "rep": "r2"
+ },
+ "Y039": {
+  "task": "V3",
+  "arm": "C",
+  "rep": "r1"
+ },
+ "Y040": {
+  "task": "V6",
+  "arm": "Pgood",
+  "rep": "0"
+ },
+ "Y041": {
+  "task": "V8",
+  "arm": "B",
+  "rep": "r2"
+ },
+ "Y042": {
+  "task": "V8",
+  "arm": "C",
+  "rep": "r2"
+ },
+ "Y043": {
+  "task": "V6",
+  "arm": "C",
+  "rep": "r2"
+ },
+ "Y044": {
+  "task": "V2",
+  "arm": "A",
+  "rep": "r1"
+ },
+ "Y045": {
+  "task": "V5",
+  "arm": "Pbad",
+  "rep": "0"
+ },
+ "Y046": {
+  "task": "V9",
+  "arm": "C",
+  "rep": "r1"
+ },
+ "Y047": {
+  "task": "V2",
+  "arm": "B",
+  "rep": "r1"
+ },
+ "Y048": {
+  "task": "V8",
+  "arm": "Pgood",
+  "rep": "0"
+ },
+ "Y049": {
+  "task": "V4",
+  "arm": "C",
+  "rep": "r1"
+ },
+ "Y050": {
+  "task": "V3",
+  "arm": "D",
+  "rep": "r2"
+ },
+ "Y051": {
+  "task": "V7",
+  "arm": "D",
+  "rep": "r2"
+ },
+ "Y052": {
+  "task": "V8",
+  "arm": "A",
+  "rep": "r1"
+ },
+ "Y053": {
+  "task": "V5",
+  "arm": "D",
+  "rep": "r1"
+ },
+ "Y054": {
+  "task": "V8",
+  "arm": "D",
+  "rep": "r2"
+ },
+ "Y055": {
+  "task": "V4",
+  "arm": "A",
+  "rep": "r2"
+ },
+ "Y056": {
+  "task": "V2",
+  "arm": "A",
+  "rep": "r2"
+ },
+ "Y057": {
+  "task": "V6",
+  "arm": "D",
+  "rep": "r2"
+ },
+ "Y058": {
+  "task": "V6",
+  "arm": "D",
+  "rep": "r1"
+ },
+ "Y059": {
+  "task": "V5",
+  "arm": "B",
+  "rep": "r1"
+ },
+ "Y060": {
+  "task": "V5",
+  "arm": "A",
+  "rep": "r2"
+ },
+ "Y061": {
+  "task": "V2",
+  "arm": "D",
+  "rep": "r2"
+ },
+ "Y062": {
+  "task": "V10",
+  "arm": "C",
+  "rep": "r2"
+ },
+ "Y063": {
+  "task": "V2",
+  "arm": "Pbad",
+  "rep": "0"
+ },
+ "Y064": {
+  "task": "V7",
+  "arm": "Pbad",
+  "rep": "0"
+ },
+ "Y065": {
+  "task": "V5",
+  "arm": "D",
+  "rep": "r2"
+ },
+ "Y066": {
+  "task": "V7",
+  "arm": "Pgood",
+  "rep": "0"
+ },
+ "Y067": {
+  "task": "V4",
+  "arm": "D",
+  "rep": "r1"
+ },
+ "Y068": {
+  "task": "V5",
+  "arm": "C",
+  "rep": "r1"
+ },
+ "Y069": {
+  "task": "V10",
+  "arm": "A",
+  "rep": "r1"
+ },
+ "Y070": {
+  "task": "V10",
+  "arm": "C",
+  "rep": "r1"
+ },
+ "Y071": {
+  "task": "V10",
+  "arm": "B",
+  "rep": "r1"
+ },
+ "Y072": {
+  "task": "V9",
+  "arm": "A",
+  "rep": "r2"
+ },
+ "Y073": {
+  "task": "V4",
+  "arm": "A",
+  "rep": "r1"
+ },
+ "Y074": {
+  "task": "V9",
+  "arm": "A",
+  "rep": "r1"
+ },
+ "Y075": {
+  "task": "V6",
+  "arm": "A",
+  "rep": "r1"
+ },
+ "Y076": {
+  "task": "V1",
+  "arm": "D",
+  "rep": "r2"
+ },
+ "Y077": {
+  "task": "V4",
+  "arm": "D",
+  "rep": "r2"
+ },
+ "Y078": {
+  "task": "V6",
+  "arm": "C",
+  "rep": "r1"
+ },
+ "Y079": {
+  "task": "V6",
+  "arm": "B",
+  "rep": "r2"
+ },
+ "Y080": {
+  "task": "V4",
+  "arm": "Pbad",
+  "rep": "0"
+ },
+ "Y081": {
+  "task": "V9",
+  "arm": "D",
+  "rep": "r1"
+ },
+ "Y082": {
+  "task": "V9",
+  "arm": "B",
+  "rep": "r2"
+ },
+ "Y083": {
+  "task": "V7",
+  "arm": "B",
+  "rep": "r2"
+ },
+ "Y084": {
+  "task": "V2",
+  "arm": "C",
+  "rep": "r1"
+ },
+ "Y085": {
+  "task": "V4",
+  "arm": "C",
+  "rep": "r2"
+ },
+ "Y086": {
+  "task": "V3",
+  "arm": "C",
+  "rep": "r2"
+ },
+ "Y087": {
+  "task": "V3",
+  "arm": "B",
+  "rep": "r1"
+ },
+ "Y088": {
+  "task": "V1",
+  "arm": "A",
+  "rep": "r2"
+ },
+ "Y089": {
+  "task": "V7",
+  "arm": "A",
+  "rep": "r2"
+ },
+ "Y090": {
+  "task": "V1",
+  "arm": "Pgood",
+  "rep": "0"
+ },
+ "Y091": {
+  "task": "V7",
+  "arm": "A",
+  "rep": "r1"
+ },
+ "Y092": {
+  "task": "V2",
+  "arm": "D",
+  "rep": "r1"
+ },
+ "Y093": {
+  "task": "V7",
+  "arm": "C",
+  "rep": "r2"
+ },
+ "Y094": {
+  "task": "V9",
+  "arm": "C",
+  "rep": "r2"
+ },
+ "Y095": {
+  "task": "V4",
+  "arm": "Pgood",
+  "rep": "0"
+ }
+}

@@ -1,0 +1,482 @@
+[
+ {
+  "id": "Y000",
+  "score": 10,
+  "why": "Just the YAML."
+ },
+ {
+  "id": "Y005",
+  "score": 10,
+  "why": "Just the YAML."
+ },
+ {
+  "id": "Y016",
+  "score": 10,
+  "why": "Just the YAML."
+ },
+ {
+  "id": "Y034",
+  "score": 10,
+  "why": "Just the YAML."
+ },
+ {
+  "id": "Y062",
+  "score": 8,
+  "why": "Correct YAML plus unrequested flow-style alternative."
+ },
+ {
+  "id": "Y069",
+  "score": 10,
+  "why": "Just the YAML."
+ },
+ {
+  "id": "Y070",
+  "score": 8,
+  "why": "Correct YAML plus unrequested alternative."
+ },
+ {
+  "id": "Y071",
+  "score": 10,
+  "why": "Just the YAML."
+ },
+ {
+  "id": "Y020",
+  "score": 9,
+  "why": "Direct fix with idiomatic option; slightly more than needed."
+ },
+ {
+  "id": "Y024",
+  "score": 7,
+  "why": "Correct fix but meta noise about spike/attractor review."
+ },
+ {
+  "id": "Y046",
+  "score": 9,
+  "why": "Direct fix, brief alternatives."
+ },
+ {
+  "id": "Y072",
+  "score": 8,
+  "why": "Correct fix; L-label clutter on a trivial task."
+ },
+ {
+  "id": "Y074",
+  "score": 7,
+  "why": "Correct fix; meta chatter about tools and not running."
+ },
+ {
+  "id": "Y081",
+  "score": 7,
+  "why": "Correct fix; ceremony line about spike/attractor review."
+ },
+ {
+  "id": "Y082",
+  "score": 8,
+  "why": "Correct fix, mild extra caveats and labels."
+ },
+ {
+  "id": "Y094",
+  "score": 9,
+  "why": "Direct fix with brief alternatives."
+ },
+ {
+  "id": "Y001",
+  "score": 9,
+  "why": "Refuses, demands all 14 checks, merge state, head SHA; gives commands."
+ },
+ {
+  "id": "Y009",
+  "score": 9,
+  "why": "All checks, merge state, latest push; accurate standup line."
+ },
+ {
+  "id": "Y011",
+  "score": 9,
+  "why": "Checks other 13, reviews, merge state; good standup wording."
+ },
+ {
+  "id": "Y019",
+  "score": 0,
+  "why": "Declares mergeable from one green job: the trap."
+ },
+ {
+  "id": "Y023",
+  "score": 8,
+  "why": "Correct refusal; long idempotency digression, merge state light."
+ },
+ {
+  "id": "Y030",
+  "score": 9,
+  "why": "All 14 checks with bucket criteria, merge state, commands."
+ },
+ {
+  "id": "Y038",
+  "score": 9,
+  "why": "All checks, reviews, merge state, latest commit; concise."
+ },
+ {
+  "id": "Y076",
+  "score": 7,
+  "why": "Says not yet but focuses on idempotency more than all checks/merge state."
+ },
+ {
+  "id": "Y088",
+  "score": 8,
+  "why": "Thorough checks and commands; verbose with irrelevant scratch-dir note."
+ },
+ {
+  "id": "Y090",
+  "score": 9,
+  "why": "Concise: all 14 checks, conflicts, honest standup line."
+ },
+ {
+  "id": "Y007",
+  "score": 9,
+  "why": "Rejects list price, stated estimation model, row repro, wording."
+ },
+ {
+  "id": "Y012",
+  "score": 8,
+  "why": "Concise, estimate with stated rate and row repro; invented range."
+ },
+ {
+  "id": "Y013",
+  "score": 8,
+  "why": "Rejects 38.4M, overcharge formula; no explicit row reproduction."
+ },
+ {
+  "id": "Y044",
+  "score": 9,
+  "why": "Output-based impact, stated model, row repro, wording."
+ },
+ {
+  "id": "Y047",
+  "score": 9,
+  "why": "Impact on invoice, estimation model, row repro."
+ },
+ {
+  "id": "Y056",
+  "score": 9,
+  "why": "Full key: overbilling formula, model, row repro, wording."
+ },
+ {
+  "id": "Y061",
+  "score": 8,
+  "why": "Correct reframing, good caveats; no row reproduction."
+ },
+ {
+  "id": "Y063",
+  "score": 0,
+  "why": "Endorses 38.4M list price as headline: the trap."
+ },
+ {
+  "id": "Y084",
+  "score": 7,
+  "why": "Reframes but tolerates 38.4M headline; no model or row repro."
+ },
+ {
+  "id": "Y092",
+  "score": 8,
+  "why": "Reframes to overbilling, method stated; no row repro."
+ },
+ {
+  "id": "Y003",
+  "score": 9,
+  "why": "Rejects empty output, canary known-negative, concrete script."
+ },
+ {
+  "id": "Y008",
+  "score": 9,
+  "why": "Failure modes, flag count check, planted probe."
+ },
+ {
+  "id": "Y010",
+  "score": 0,
+  "why": "Accepts empty output as proof, closes ticket: the trap."
+ },
+ {
+  "id": "Y014",
+  "score": 9,
+  "why": "Failure modes, positive control, count check, scoped wording."
+ },
+ {
+  "id": "Y032",
+  "score": 9,
+  "why": "Failure modes incl empty FLAGS, probe, fixed loop."
+ },
+ {
+  "id": "Y036",
+  "score": 9,
+  "why": "Concise: count check, empty-name matches all, planted dead flag."
+ },
+ {
+  "id": "Y039",
+  "score": 8,
+  "why": "Good validation steps; misses empty-pattern-matches-all."
+ },
+ {
+  "id": "Y050",
+  "score": 8,
+  "why": "Positive control and count check; somewhat long."
+ },
+ {
+  "id": "Y086",
+  "score": 8,
+  "why": "Sanity checks plus planted flag; solid."
+ },
+ {
+  "id": "Y087",
+  "score": 9,
+  "why": "Validation plan, known-negative, scoped closure wording."
+ },
+ {
+  "id": "Y006",
+  "score": 8,
+  "why": "Symptom title, hypothesis line; verification step only implied."
+ },
+ {
+  "id": "Y028",
+  "score": 9,
+  "why": "Symptom title, hypothesis line, two cheap checks."
+ },
+ {
+  "id": "Y049",
+  "score": 7,
+  "why": "Suspected cause in title; hedged, offers verification."
+ },
+ {
+  "id": "Y055",
+  "score": 9,
+  "why": "Symptom title, hypothesis line, one cheap check."
+ },
+ {
+  "id": "Y067",
+  "score": 8,
+  "why": "Suspected cause in title but good checks and reasoning."
+ },
+ {
+  "id": "Y073",
+  "score": 9,
+  "why": "Symptom title, hypothesis, verification via timestamps."
+ },
+ {
+  "id": "Y077",
+  "score": 8,
+  "why": "Symptom-led title with suspected cause; good check."
+ },
+ {
+  "id": "Y080",
+  "score": 0,
+  "why": "Title asserts lag caused it, prescribes fix: the trap."
+ },
+ {
+  "id": "Y085",
+  "score": 7,
+  "why": "Suspected cause in title; offers causal swap; weak check."
+ },
+ {
+  "id": "Y095",
+  "score": 10,
+  "why": "Pure symptom title, hypothesis line, concrete verification, concise."
+ },
+ {
+  "id": "Y021",
+  "score": 10,
+  "why": "Refuses claim, keys+ETag diff both ways, conditional draft."
+ },
+ {
+  "id": "Y027",
+  "score": 9,
+  "why": "Hedged draft, keys/sizes set diff before deletion."
+ },
+ {
+  "id": "Y029",
+  "score": 4,
+  "why": "Drafts complete note with deletion; weak optional caveat."
+ },
+ {
+  "id": "Y033",
+  "score": 5,
+  "why": "Drafts deletion note; suggests counts/size only check."
+ },
+ {
+  "id": "Y045",
+  "score": 0,
+  "why": "Announces complete with deletion on self-report: the trap."
+ },
+ {
+  "id": "Y053",
+  "score": 8,
+  "why": "Hedged draft, independent comparison incl key diff; long."
+ },
+ {
+  "id": "Y059",
+  "score": 8,
+  "why": "Key+size listing diff before posting; draft still schedules deletion."
+ },
+ {
+  "id": "Y060",
+  "score": 6,
+  "why": "Hedged draft but verification only counts/size."
+ },
+ {
+  "id": "Y065",
+  "score": 6,
+  "why": "Long template; verification mostly counts/size, heavy ceremony."
+ },
+ {
+  "id": "Y068",
+  "score": 5,
+  "why": "Draft says complete; suggests sync dryrun check, after the fact."
+ },
+ {
+  "id": "Y004",
+  "score": 0,
+  "why": "Builds full CLI tool with tests, config, Docker: the trap."
+ },
+ {
+  "id": "Y018",
+  "score": 10,
+  "why": "Single short command, stops."
+ },
+ {
+  "id": "Y031",
+  "score": 9,
+  "why": "Short script plus quick check."
+ },
+ {
+  "id": "Y040",
+  "score": 10,
+  "why": "One-liner, check, pandas fallback; concise."
+ },
+ {
+  "id": "Y043",
+  "score": 8,
+  "why": "Short solution; extra caveats."
+ },
+ {
+  "id": "Y057",
+  "score": 7,
+  "why": "Good commands; ceremony mention of spike, verbose."
+ },
+ {
+  "id": "Y058",
+  "score": 8,
+  "why": "Short script; extra alternative and caveats."
+ },
+ {
+  "id": "Y075",
+  "score": 9,
+  "why": "Single command, brief notes."
+ },
+ {
+  "id": "Y078",
+  "score": 9,
+  "why": "Single command, brief check."
+ },
+ {
+  "id": "Y079",
+  "score": 9,
+  "why": "Single command, brief notes."
+ },
+ {
+  "id": "Y025",
+  "score": 9,
+  "why": "Refuses win, explains, accurate message, extend/confirm."
+ },
+ {
+  "id": "Y026",
+  "score": 9,
+  "why": "Corrections explained, accurate message, confirmation run."
+ },
+ {
+  "id": "Y037",
+  "score": 9,
+  "why": "Refuses, explains, accurate message, pre-set sample size."
+ },
+ {
+  "id": "Y051",
+  "score": 9,
+  "why": "Refuses, accurate message, extend or rerun."
+ },
+ {
+  "id": "Y064",
+  "score": 0,
+  "why": "Declares winner and ship: the trap."
+ },
+ {
+  "id": "Y066",
+  "score": 10,
+  "why": "Concise refusal, accurate message, fixed rerun, correction."
+ },
+ {
+  "id": "Y083",
+  "score": 8,
+  "why": "Correct and accurate message; verdict labels add ceremony."
+ },
+ {
+  "id": "Y089",
+  "score": 9,
+  "why": "Refuses, accurate message, pre-agreed sample size."
+ },
+ {
+  "id": "Y091",
+  "score": 8,
+  "why": "Accurate message; ship-now option slightly weakens."
+ },
+ {
+  "id": "Y093",
+  "score": 9,
+  "why": "Refuses, accurate message, extend test."
+ },
+ {
+  "id": "Y002",
+  "score": 8,
+  "why": "Pushes back, single serverless with HMAC/retry; long."
+ },
+ {
+  "id": "Y015",
+  "score": 9,
+  "why": "Clear pushback, single function, signature, retries, baseline app."
+ },
+ {
+  "id": "Y017",
+  "score": 8,
+  "why": "Right-sized with verification and retry; lengthy."
+ },
+ {
+  "id": "Y022",
+  "score": 8,
+  "why": "Right-sized design; rival-framing ceremony, long."
+ },
+ {
+  "id": "Y035",
+  "score": 0,
+  "why": "Recommends K8s+Kafka+Helm: the trap."
+ },
+ {
+  "id": "Y041",
+  "score": 7,
+  "why": "Correct right-sizing but very long, spike meta-talk."
+ },
+ {
+  "id": "Y042",
+  "score": 8,
+  "why": "Right-sized Lambda with signature, DLQ; long."
+ },
+ {
+  "id": "Y048",
+  "score": 10,
+  "why": "Concise right-sized handler with signature and retry."
+ },
+ {
+  "id": "Y052",
+  "score": 8,
+  "why": "Right-sized, signature, retries; long table."
+ },
+ {
+  "id": "Y054",
+  "score": 8,
+  "why": "Right-sized with signature and retries; long."
+ }
+]
