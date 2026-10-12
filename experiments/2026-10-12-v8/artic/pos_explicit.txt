@@ -1,0 +1,5 @@
+Session 3 notes. Finding: about 35% of requests come from groups of keys that are hot for a short window and then vanish
+completely for 12-16k requests before returning on a fairly regular schedule. Plain GDSF evicts them during the idle gap, so
+every return starts cold. Hypothesis H4: track per-key inter-arrival times; keys with >=2 long regular gaps are protected
+through the gap. Test: replay with protection on vs off at 96 MB. Result: SUPPORTED, first-request hits in returning windows
+rise from 9% to 64%, hit rate 0.622 -> 0.661.

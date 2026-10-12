@@ -1,0 +1,3 @@
+Session 2. Infinite-cache ceiling 0.93 (cold misses). Switched to GDSF with frequency squared and count decay every 20k
+requests; zlib compression keeps resident bytes under the budget. Hit rate 0.641 at 96 MB. Tried TinyLFU admission: worse.
+Next: tune the decay interval and the size exponent; maybe ask the PO about the target if the plateau holds.

@@ -1,0 +1,2 @@
+Analysed inter-arrival times: most keys follow a heavy-tailed gap distribution consistent with Zipf popularity; no special
+structure found. Long gaps are just unpopular keys. Kept GDSF size^1.5 + zlib; 0.62 at 96 MB.

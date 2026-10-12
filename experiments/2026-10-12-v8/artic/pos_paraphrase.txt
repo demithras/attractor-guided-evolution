@@ -1,0 +1,3 @@
+notes: looked at when keys show up over time. a few hundred keys appear in bursts, disappear for a long time, then come
+back again, roughly every 15k requests. made the cache remember keys that have come back at least twice after a long break
+and keep them instead of evicting. eval 0.655 at 96MB. next: tune how long to keep them.
